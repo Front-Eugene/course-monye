@@ -78,8 +78,7 @@ li {
     bottom: 0;
     position: absolute;
     border-left: 100vw solid transparent;
-    /* border-bottom: 150px solid #c76d03; */
-    border-bottom: 150px solid #c76d03a6;
+    border-bottom: 150px solid #c76b03;
     z-index: 20;
 }
 
@@ -91,7 +90,7 @@ li {
     position: absolute;
     border-right: 100vw solid transparent;
     /* border-top: 150px solid #c76d03; */
-    border-top: 150px solid #c76d03a6;
+    border-top: 150px solid #c76b03fd;
 
     z-index: 20;
 }
@@ -139,6 +138,7 @@ li {
     position: relative;
     z-index: 10;
     display: flex;
+    justify-content: space-between;
     padding: 0 50px;
 }
 
@@ -175,9 +175,7 @@ ul li span {
 
 .face {
     width: 600px;
-    height: 600px;
     margin-top: -12px;
-    transform: rotate(-6deg);
 }
 
 .btn {
@@ -217,7 +215,7 @@ ul li span {
 .for {
     padding: 50px;
     color: #fff;
-    background: #c76d03a6;
+    background: #c76b03;
 }
 
 .for h2 {
@@ -811,7 +809,7 @@ footer a img{
 
     .triangle {
         z-index: 10;
-        border-bottom: 100px solid #c76d03a6;
+        border-bottom: 100px solid #c76b03;
     }
 
     .for {
