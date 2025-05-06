@@ -90,7 +90,7 @@ li {
     position: absolute;
     border-right: 100vw solid transparent;
     /* border-top: 150px solid #c76d03; */
-    border-top: 150px solid #c76b03fd;
+    border-top: 150px solid #c76b03;
 
     z-index: 20;
 }
